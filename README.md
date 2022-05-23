@@ -6,10 +6,10 @@ Full Stack Developer | Ruby on Rails
 
 Used to be a lawyer for about ten years, but decided to start coding due to great passion towards foreign languages in general. Why not learn programming?
 
-🌍  I'm based in São Paulo, Brazil
-✉️  You can contact me at [juliocesar1908@gmail.com](mailto:juliocesar1908@gmail.com)
-🧠  I'm learning Ruby on Rails
-🤝  I'm open to collaborating on any challenging projects!
+*🌍  I'm based in São Paulo, Brazil
+*✉️  You can contact me at [juliocesar1908@gmail.com](mailto:juliocesar1908@gmail.com)
+*🧠  I'm learning Ruby on Rails
+*🤝  I'm open to collaborating on any challenging projects!
 
 ### Skills
 
