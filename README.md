@@ -1,16 +1,16 @@
 Hi 👋 My name is Júlio César Bezerra!
 =====================================
 
-Full Stack Developer
---------------------
+Generative AI Engineer | Compliance & Legal Tech Expert
+--------------------------------------------------------
 
-Used to be a lawyer for about ten years, but decided to start coding due to great passion towards languages in general. Why not learn programming then? 🧐
+I transitioned from a decade-long career in law to the tech industry, driven by my passion for languages and technology. My focus is on leveraging Generative AI to solve complex challenges in AML, fraud prevention, and compliance. 
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [juliocesar1908@gmail.com](mailto:juliocesar1908@gmail.com)
-* 🧠  I'm learning Ruby on Rails and whatever is thrown at me!
-* 🤝  I'm open to collaborating on specially challenging projects which are suited to put my skills to the test 😎
-* ⚡  I've learned how to speak six languages so far 🇧🇷 🇺🇸 🇪🇸 🇫🇷🇰🇷 🇨🇳
+* 🧠  I'm constantly learning and exploring AI technologies, especially in Generative AI and compliance solutions.
+* 🤝  I'm open to collaborating on challenging projects that push the boundaries of AI and legal technology.
+* ⚡  I'm fluent in six languages and passionate about cross-cultural communication 🇧🇷 🇺🇸 🇪🇸 🇫🇷 🇰🇷 🇨🇳
 
 ### Skills
 
